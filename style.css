@@ -1,0 +1,67 @@
+body {
+  background-color: #c5e7f7;
+  margin: 3;
+  line-height: 2;
+  font-size: 20px;
+}
+
+.main-title {
+  color: #e80707;
+}
+
+.nav-list .link{
+  color: #fbee00;
+}
+
+.nav-list .link.special-link{
+  color: #0015fb;
+}
+
+.nav-list li:nth-child(1) a{
+  color: #15ad1f;
+}
+
+
+#first-post{
+  color: #ef6007;
+}
+
+.post{
+line-height: 0.5;
+font-weight: bold;
+color: #8707e8;
+}
+
+.highlighted{
+  color: #010101;
+}
+
+.color-list{
+  color: #472504;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+.color-list li:nth-child(1){
+  color: #6f7b7b;
+}
+
+.widget h3{
+  color: #f708c3;
+}
+
+.widget.important-widget > h3{
+  color: #8a0606;
+}
+
+.note {
+  color: #8a0606;
+}
+
+.form label{
+  color: #fcfafa;
+}
+
+.form button{
+  color: #030303;
+}
